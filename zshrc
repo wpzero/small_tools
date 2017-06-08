@@ -87,6 +87,7 @@ export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
 export PATH="$PATH:$HOME/bin"
 
+
 # add mactex
 export PATH="$PATH:/Library/TeX/texbin"
 
@@ -122,3 +123,6 @@ alias m='man'
 
 # for gtags external lib tag db
 export GTAGSLIBPATH=$HOME/.gtags/
+
+# export PATH for racket
+export PATH="$PATH:/Applications/Racket v6.9/bin"
