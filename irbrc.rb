@@ -4,7 +4,7 @@ require 'benchmark'
 require 'json'
 
 # gem which awesome_print get path
-$: << '/Users/wpzero/.rvm/gems/ruby-2.2.4@rails4.2.6/gems/awesome_print-1.7.0/lib/'
+$: << '/Users/wpzero/.rvm/gems/ruby-2.3.1@rails5/gems/awesome_print-1.7.0/lib/'
 
 require 'awesome_print'
 
