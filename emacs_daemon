@@ -1,0 +1,3 @@
+#!/bin/sh
+PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin; export PATH
+emacs --daemon --no-desktop
